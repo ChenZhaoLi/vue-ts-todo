@@ -1,0 +1,23 @@
+{
+  "name": "vue-ts-todo",
+  "version": "1.0.0",
+  "description": "typescript-vue练习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenZhaoLi/vue-ts-todo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChenZhaoLi/vue-ts-todo/issues"
+  },
+  "homepage": "https://github.com/ChenZhaoLi/vue-ts-todo#readme",
+  "dependencies": {
+    "md5": "^2.3.0"
+  }
+}
